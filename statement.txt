@@ -1,0 +1,16 @@
+Academic Integrity and Learning Statement
+
+By submitting my work, I confirm that:
+
+1. The code, analysis, and documentation in this notebook are my own work and reflect my own understanding.
+2. I am prepared to explain all code and analysis included in this submission.
+
+If I used assistance (e.g., AI tools, tutors, or other resources), I have:
+
+- Clearly documented where and how external tools or resources were used in my solution.
+- Included a copy of the interaction (e.g., AI conversation or tutoring notes) in an appendix.
+
+I acknowledge that:
+
+- I may be asked to explain any part of my code or analysis during evaluation.
+- Misrepresenting assisted work as my own constitutes academic dishonesty and undermines my learning.
